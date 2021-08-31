@@ -1,0 +1,16 @@
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\Matos.Bank.exe
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\Matos.Bank.deps.json
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\Matos.Bank.runtimeconfig.json
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\Matos.Bank.runtimeconfig.dev.json
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\Matos.Bank.dll
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\ref\Matos.Bank.dll
+C:\ws-vs2019\Matos.Bank\bin\Debug\net5.0\Matos.Bank.pdb
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.csproj.AssemblyReference.cache
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.AssemblyInfoInputs.cache
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.AssemblyInfo.cs
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.dll
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\ref\Matos.Bank.dll
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.pdb
+C:\ws-vs2019\Matos.Bank\obj\Debug\net5.0\Matos.Bank.genruntimeconfig.cache
